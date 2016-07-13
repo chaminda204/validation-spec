@@ -1,0 +1,15 @@
+# IntelliJ project files
+.idea
+*.iml
+
+# gradle
+.gradle
+build
+
+.DS_Store
+
+.settings
+.classpath
+.project
+
+bin
